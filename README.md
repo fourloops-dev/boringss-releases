@@ -46,10 +46,6 @@
 2. Download **`BoringSS_Setup_v4.2.0.exe`**.
 3. Run the installer and follow the setup wizard. It installs BoringSS Studio cleanly to `C:\FourLoops\BoringSS`, creates Desktop & Start Menu shortcuts, and registers the official uninstaller in Windows Installed Apps.
 
-### Alternative: Portable ZIP Package
-1. Download **`BoringSS_Customer_Setup.zip`** from the [Latest Release](https://github.com/fourloops-dev/boringss-releases/releases/latest) page.
-2. Extract the archive to any folder and launch **`BoringSS.exe`**.
-
 > **Windows SmartScreen Note:** Because BoringSS Studio is independently published by FourLoops, Windows Defender SmartScreen may show a prompt on first launch. Click **More info → Run anyway** to proceed.
 
 ---
