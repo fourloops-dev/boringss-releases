@@ -76,7 +76,7 @@ Need a license key, help with installation, or want to report feedback?
 
 - **Email:** fourloops.official.2026@gmail.com
 - **Instagram:** [@fourloops.dev](https://www.instagram.com/fourloops.dev)
-- **GitHub:** [@fourloops-dev](https://github.com/fourloops-official)
+- **GitHub:** [@fourloops-dev](https://github.com/fourloops-dev)
 
 ---
 
